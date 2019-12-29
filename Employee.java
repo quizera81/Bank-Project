@@ -1,4 +1,4 @@
-public interface  Employee{
+public interface  Employee {
     // every user should have a name
     public void setName(String name);
     public String getName();
